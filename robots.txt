@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kitchen-remodel-contractor-phoenix-az.netlify.app/sitemap.xml
